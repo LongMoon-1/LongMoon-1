@@ -1,16 +1,43 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**LongMoon-1/LongMoon-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```text
+::.--.-.::
+:( (    ):::::  东边日出西边雨 
+(_,  \ ) ,_)::  道是无晴却有情        |
+:::-'--`--:::::::: ~~|     ,       \ _ /
+::::::::::::::::::: ,|`-._/|   -==  (_)  ==-
+::::::::^^::::::::.' |   /||\      /   \
+::::::^^::::::::.'   | ./ ||`\       |
+:::::::::::::::/ `-. |/._ ||  \
+::::::::::::::|      ||   ||   \
+ ~~=~_~^~ =~ \~~~~~~~'~~~~'~~~~/~~`` ~=~^~
+~^^~~-=~^~ ^ `--------------'~^~=~^~_~^=~^~
+```
 
-Here are some ideas to get you started:
+# Hi there, I'm LongMoon 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <a href="https://www.longmoon.top" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-longmoon.top-blue?style=flat-square&logo=wordpress&logoColor=white" alt="Blog" />
+  </a>
+  <a href="mailto:me@longmoon.top">
+    <img src="https://img.shields.io/badge/Email-me%40longmoon.top-red?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+*“东边日出西边雨，道是无晴却有情。”*
+
+</div>
+
+---
+
+### About Me
+
+- 折腾独立博客：[longmoon.top](https://www.longmoon.top)
+- 邮箱联系：me@longmoon.top
+
+---
+
+<div align="center">
+  <i>“在互联网的角落里，留下一点自己的痕迹。”</i>
+</div>
